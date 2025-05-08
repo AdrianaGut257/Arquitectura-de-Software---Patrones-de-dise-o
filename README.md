@@ -1,1 +1,1 @@
-# Arquitectura-de-Software---Patrones-de-dise-o
+# Arquitectura-de-Software - Patrones-de-diseño
