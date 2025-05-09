@@ -1,3 +1,5 @@
+package PorClases;
+
 public class CajeroBanco {
     private static CajeroBanco cajeroBanco;
     private int saldo = 1000;

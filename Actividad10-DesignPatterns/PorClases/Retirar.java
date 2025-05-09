@@ -1,3 +1,4 @@
+package PorClases;
 import java.util.Scanner;
 
 public class Retirar implements Transaccion{

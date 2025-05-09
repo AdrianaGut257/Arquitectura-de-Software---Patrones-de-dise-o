@@ -1,3 +1,5 @@
+package PorClases;
+
 public class InterfazCajero{
     public void realizarOperacion(int opcion){
         Transaccion operacion = null;
