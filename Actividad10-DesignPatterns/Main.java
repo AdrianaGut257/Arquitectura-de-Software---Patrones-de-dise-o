@@ -20,6 +20,6 @@ public class Main {
             }
             cajero.realizarOperacion(opcion);
         }
-        // ctrl + f5 para ejecutar
+        // Ctrl + f5 para ejecutar
     }
 }
