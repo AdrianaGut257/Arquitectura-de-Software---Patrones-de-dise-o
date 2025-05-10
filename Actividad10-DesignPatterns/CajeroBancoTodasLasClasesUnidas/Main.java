@@ -66,14 +66,14 @@ interface Transaccion {
     void ejecutar();
 }
 
-// Estrategia concreta: Consultar saldo
+// Patrón Strategy - Estrategia concreta: Consultar saldo
 class Consultar implements Transaccion {
     public void ejecutar() {
         System.out.println("Saldo actual: " + CajeroBanco.getInstancia().getSaldo());
     }
 }
 
-// Estrategia concreta: Depositar dinero
+// Patrón Strategy - Estrategia concreta: Depositar dinero
 class Depositar implements Transaccion {
     public void ejecutar() {
         Scanner sc = new Scanner(System.in);
@@ -84,7 +84,7 @@ class Depositar implements Transaccion {
     }
 }
 
-// Estrategia concreta: Retirar dinero
+// Patrón Strategy - Estrategia concreta: Retirar dinero
 class Retirar implements Transaccion{
     public void ejecutar() {
         Scanner sc = new Scanner(System.in);
