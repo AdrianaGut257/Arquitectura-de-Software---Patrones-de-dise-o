@@ -1,4 +1,5 @@
-package PorClases;
+package CajeroBancoPorClasesSeparadas;
+
 import java.util.Scanner;
 
 public class Main {

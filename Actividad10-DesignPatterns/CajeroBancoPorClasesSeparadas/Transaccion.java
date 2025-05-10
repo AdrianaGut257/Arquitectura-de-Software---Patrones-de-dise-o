@@ -1,4 +1,5 @@
-package PorClases;
+package CajeroBancoPorClasesSeparadas;
+
 public interface Transaccion {
     void ejecutar();
 }

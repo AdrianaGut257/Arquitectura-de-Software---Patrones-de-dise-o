@@ -1,7 +1,8 @@
+package CajeroBancoTodasLasClasesUnidas;
 import java.util.Scanner;
 
-// Clase principal que contiene el método main
-public class CajeroApp {
+// Clase principal Main
+public class Main {
    public static void main(String[] args){
         InterfazCajero cajero = new InterfazCajero();
         Scanner sc = new Scanner(System.in);

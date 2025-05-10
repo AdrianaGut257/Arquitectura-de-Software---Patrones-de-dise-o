@@ -1,4 +1,4 @@
-package PorClases;
+package CajeroBancoPorClasesSeparadas;
 
 public class Consultar implements Transaccion {
     public void ejecutar() {

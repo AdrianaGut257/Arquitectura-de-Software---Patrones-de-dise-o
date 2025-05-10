@@ -1,4 +1,4 @@
-package PorClases;
+package CajeroBancoPorClasesSeparadas;
 
 public class CajeroBanco {
     private static CajeroBanco cajeroBanco;

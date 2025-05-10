@@ -1,4 +1,4 @@
-package PorClases;
+package CajeroBancoPorClasesSeparadas;
 
 public class InterfazCajero{
     public void realizarOperacion(int opcion){
